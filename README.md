@@ -87,7 +87,7 @@ A company selling various products across multiple countries needed a consolidat
 
 ## 🔗 Dashboard Link
 
-[View Power BI Dashboard on GitHub]([https://github.com/tanweer96/Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.pbix](https://github.com/Vandan0921/Task-4---Dashboard-Design/blob/main/Sales%20Analysis%20Dashboard.pbix))
+[View Power BI Dashboard on GitHub](https://github.com/Vandan0921/Task-4---Dashboard-Design/blob/main/Sales%20Analysis%20Dashboard.pbix)]
 
 ---
 
