@@ -85,40 +85,9 @@ A company selling various products across multiple countries needed a consolidat
 
 ---
 
-## 📸 Dashboard Preview
-
-![Sales Analysis Dashboard](Sales_Dash.png)
-
----
-
-## 🗂 Interview Questions & Answers
-
-**Q1. What are the key elements of a dashboard?**
-KPI cards, charts (bar, line, pie), filters/slicers, a consistent color theme, and a clear title/navigation structure.
-
-**Q2. What is a KPI?**
-A Key Performance Indicator — a measurable value that shows how effectively objectives are being achieved. Examples: Total Sales, Profit Margin, Units Sold.
-
-**Q3. What are slicers in Power BI?**
-Visual filter controls that let users interactively narrow data — e.g., by year, region, or segment — without editing the report.
-
-**Q4. Difference between Power BI and Tableau?**
-Power BI integrates tightly with Microsoft products (Excel, Azure) and is generally more affordable. Tableau is more flexible for complex visualizations and is favored in non-Microsoft environments. Both offer drag-and-drop dashboards and strong analytics.
-
-**Q5. How do you make a dashboard interactive?**
-By adding slicers, drill-throughs, cross-filtering between visuals, bookmarks, and navigation buttons.
-
-**Q6. How do you deal with large datasets in dashboards?**
-Use aggregations, DirectQuery/Import modes wisely, apply filters early in Power Query, use summary tables, and enable incremental refresh.
-
-**Q7. What chart types do you use for trend analysis?**
-Line charts (time series), area charts (cumulative trends), and column charts (year-over-year comparisons).
-
----
-
 ## 🔗 Dashboard Link
 
-[View Power BI Dashboard on GitHub](https://github.com/tanweer96/Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.pbix)
+[View Power BI Dashboard on GitHub]([https://github.com/tanweer96/Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.pbix](https://github.com/Vandan0921/Task-4---Dashboard-Design/blob/main/Sales%20Analysis%20Dashboard.pbix))
 
 ---
 
